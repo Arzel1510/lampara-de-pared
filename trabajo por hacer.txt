@@ -1,0 +1,5 @@
+Selecionar el microcontrolador y los sensores.
+Crear el circuito que alimente ambos leds RGB, al microcontrolador y sensores.
+Crear el circuito que conecte a los sensores, microcontrolados y leds RGB.
+Diseñar el codigo de control para el micro.
+Analizar el producto y rediseñar de ser necesario.
